@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "candycanefeast",
+            "request": "launch",
+            "mainClass": "candycanefeast",
+            "projectName": "Bronze_79d5a64c"
+        },
+        {
+            "type": "java",
+            "name": "cowntacttracing",
+            "request": "launch",
+            "mainClass": "cowntacttracing",
+            "projectName": "Bronze_79d5a64c"
+        },
+        {
+            "type": "java",
+            "name": "famerjohnfarms_solution",
+            "request": "launch",
+            "mainClass": "famerjohnfarms_solution",
+            "projectName": "Bronze_79d5a64c"
+        },
+        {
+            "type": "java",
+            "name": "farmerjohnfarms",
+            "request": "launch",
+            "mainClass": "farmerjohnfarms",
+            "projectName": "Bronze_79d5a64c"
+        }
+    ]
+}
